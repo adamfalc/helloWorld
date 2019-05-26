@@ -1,3 +1,3 @@
 # helloWorld
 
-This is a test to understand github
+This is a test to learn github
